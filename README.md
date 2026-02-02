@@ -51,4 +51,5 @@ All simulations and evaluations are implemented in **Python** using **Qiskit**.
 ├── circuits/       # PDF visualizations of the compiled circuits
 ├── results/        # T-gate counts and operator norm distance metrics
 ├── challenge.pdf   # Original challenge description by Superquantum (iQuHack 2026)
+├── LICENSE         # License information
 └── README.md
