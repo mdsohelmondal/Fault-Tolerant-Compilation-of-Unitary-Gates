@@ -1,0 +1,1 @@
+Distance Norm: 1.9982508638768646, T-count: 36
